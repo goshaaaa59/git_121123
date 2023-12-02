@@ -2,7 +2,7 @@
 name = "git-121123"
 version = "0.1.0"
 description = ""
-authors = ["“goshaaaa59” <“eldargordienko@gmail.com”>"]
+authors = ["goshaaaa59 <eldargordienko@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
